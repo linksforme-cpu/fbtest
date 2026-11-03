@@ -23,7 +23,7 @@ var CONFIG = {
 
   // ---------- THE ONE LINK ----------
   // Every button opens the popup; the popup button goes here.
-  link: "https://t.ajrkmx11.com/399195/8780/32516?aff_sub=henriprove&po=6533&aff_sub5=SF_006OG000004lmDN",
+  link: "https://t.ajrkmx11.com/399195/8780/32514?po=6533&aff_sub5=SF_006OG000004lmDN",
 
   // ---------- STATS UNDER THE NAME ----------
   stats: [
