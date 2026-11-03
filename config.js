@@ -14,9 +14,9 @@
 var CONFIG = {
 
   // ---------- BASICS ----------
-  name: "im.regena",
+  name: "ALICE BAKER",
   tagline: "Your favorite creator for exclusive content, live shows & more",
-  avatar: "photo_3_2026-10-06_13-20-09.jpg",
+  avatar: "1photo.jpg",
   online: true,                     // true = green "Online" badge, false = hidden
   eyebrow: "Live creator access",
   accentColor: "#ff3d8b",           // main color (buttons, highlights)
@@ -55,17 +55,17 @@ var CONFIG = {
   // ---------- STORIES (tap the profile picture) ----------
   // They never expire. button: "" = no button on that story.
   stories: [
-    { image: "photo_5_2026-10-06_13-20-09.jpg", caption: "Story 1", button: "", seconds: 2 },
-    { image: "photo_3_2026-10-06_13-20-09.jpg", caption: "Story 2", button: "", seconds: 2 },
-    { image: "photo_6_2026-10-06_13-20-09.jpg", caption: "New set is up", button: "See it", seconds: 3, private: true }
+    { image: "1photo.jpg", caption: "Story 1", button: "", seconds: 2 },
+    { image: "2photo.jpg", caption: "Story 2", button: "", seconds: 2 },
+    { image: "3photo.jpg", caption: "New set is up", button: "See it", seconds: 3, private: true }
   ],
 
   // ---------- PREVIEW GRID (4 photos) ----------
   grid: [
-    { image: "photo_1_2026-10-06_13-20-09.jpg" },
-    { image: "photo_2_2026-10-06_13-20-09.jpg" },
-    { image: "photo_4_2026-10-06_13-20-09.jpg" },
-    { image: "photo_7_2026-10-06_13-20-09.jpg", private: true, title: "Private drop", subtitle: "Tap to unlock" }
+    { image: "1photo.jpg" },
+    { image: "2photo.jpg" },
+    { image: "3photo.jpg" },
+    { image: "1photo.jpg", private: true, title: "Private drop", subtitle: "Tap to unlock" }
   ],
 
   // ---------- POPUP ----------
